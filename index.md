@@ -4,6 +4,7 @@ tags:
 start: 2025-08-22
 end: 2025-08-24
 ---
+# BrunnerCTF 2025
 
 > [!info]+ Lore
 > The Brunner Bakery began in the late 1980s, when Birgitte Brunner traded a respectable career in accounting for a far more dangerous life of hot ovens. The shop, tucked along a cobblestone street in the heart of Denmark, became legendary for a [brunsviger](https://sundaybaker.co/brunsviger-danish-coffee-cake/) that still remains unmatched to this day.  
