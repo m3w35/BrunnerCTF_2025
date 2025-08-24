@@ -31,7 +31,7 @@ end: 2025-08-24
 - [[Cookie Jar]]
 - [[TheBakingCase]]
 - [[Online Cake Flavour Shop]]
-- [[Whisk]]
+- [Whisk](Whisk.md)
 - [[Digging for Treasure]]
 - [[Textopolis]]
 
