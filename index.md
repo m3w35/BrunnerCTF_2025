@@ -22,18 +22,18 @@ end: 2025-08-24
 
 ## Shake & Bake
 
-- [[Join the Discord!]]
-- [[DoughBot]]
-- [[Where Robots Cannot Search]]
-- [[The Great Mainframe Bake-Off]]
-- [[Baker Brian]]
-- [[Insanity Check]]
-- [[Cookie Jar]]
-- [[TheBakingCase]]
-- [[Online Cake Flavour Shop]]
+- [Join the Discord!](Join\ the\ Discord.md)
+- [DoughBot](DoughBot.md)
+- [Where Robots Cannot Search](Where\ Robots\ Cannot\ Search.md)
+- [The Great Mainframe Bake-Off](The\ Grat\ Mainframe\ Bake-Off.md)
+- [Baker Brian](Baker\ Brian.md)
+- [Insanity Check](Insanity\ Check.md)
+- [Cookie Jar](Cookie\ Jar.md)
+- [TheBakingCase](TheBakingCase.md)
+- [Online Cake Flavour Shop](Online\ Cake\ Flavour\ Shop.md)
 - [Whisk](Whisk.md)
-- [[Digging for Treasure]]
-- [[Textopolis]]
+- [Digging for Treasure](Digging\ for\ Treasure.md)
+- [Textopolis](Textopolis.md)
 
 ## Boot2Root
 

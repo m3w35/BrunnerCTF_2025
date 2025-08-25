@@ -135,6 +135,9 @@ So, looking at the first ten-letter cipher-word, '🧁NXREA🧁END,' I'll adjust
 
 I liked the idea I had, so didn't want to give up on it. I tailored my method by switching words. *sugar*  is stable ingredient in *brunsviger*, right?
 
+> I missed notating this step. Also, I did not record the step anywhere else (screenshots or otherwise). So, it's ephemeral.
+> Anyway, you get the idea. One of the words in the cipher message is SUGAR. I found five-letter words the same way I found ten-letter words and went from there.
+
 #### Common keywords
 
 Looking at the first word in the semi-translated cipher text at this point, "DRE," we know
